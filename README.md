@@ -1,5 +1,7 @@
-## NEWS! You might want to checkout my latest project:
-[**Marbles** cross-platform note-taking software for Windows and Linux](https://github.com/artstisen/marbles)
+## Latest news:
+**Marbles - cross-platform note-taking software for Windows and Linux** [https://github.com/artstisen/marbles]()
+
+**Marbles.nvim - easy file encryption for Neovim** [https://github.com/artstisen/marbles.nvim](https://github.com/artstisen/marbles.nvim)
 
 ![Marbles console text editor](marbles-notekeeper-windows-terminal.jpg)
 - Marbles is made with the same principles in mind as AHOY: Notes are stored as a searchable collection of entries contained in a single encrypted file for easy portability.
