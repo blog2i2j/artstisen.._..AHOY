@@ -1,5 +1,5 @@
 ## Latest news:
-**Marbles - cross-platform note-taking software for Windows and Linux** [https://github.com/artstisen/marbles]()
+**Marbles - cross-platform note-taking software for Windows and Linux** [https://github.com/artstisen/marbles](https://github.com/artstisen/marbles)
 
 **Marbles.nvim - easy file encryption for Neovim** [https://github.com/artstisen/marbles.nvim](https://github.com/artstisen/marbles.nvim)
 
